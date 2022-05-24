@@ -1,0 +1,12 @@
+Title:Jaws
+Genre:Horror
+Length:1hr50mins
+Cast:Tim
+Director:Ron
+Admin rating:7
+Language:Eng
+Number of shows in a day:4
+First show:10am
+Interval time:15mins
+Gap between shows:45mins
+Capacity:60
